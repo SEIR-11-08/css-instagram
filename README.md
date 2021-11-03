@@ -8,15 +8,7 @@ There's a bit of starter code, so you can jump right into it.
 
 The provided template contains all the files, images, and text content needed to create the page. The text is in the `index.html`, and the color palette is in `style.css`
 
-***IF YOU HAVE NODE INSTALLED ALREADY and would like to use a css linter and browsersync***
-
-* Run `npm install` to install dependencies
-* Run `npm run lint:css` to lint your CSS
-* Run `npm start` to start the BrowserSync server
-
-***OTHERWISE***
-
-Ignore that mumbo jumbo and just dive in! The only files you'll need to worry about are: `index.html`, `img` folder, `css` folder.
+The only files you'll need to worry about are: `index.html`, `img` folder, `css` folder.
 
 ## Requirements
 
